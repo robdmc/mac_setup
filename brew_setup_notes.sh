@@ -21,3 +21,6 @@ brew install screen
 brew install watch
 brew install wdiff --with-gettext
 brew install wget
+
+#--- install additional stuff I like
+brew install ack
