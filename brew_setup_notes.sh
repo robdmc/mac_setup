@@ -1,8 +1,13 @@
 #--- Install the dups tap
 brew tap homebrew/dupes
 
+
 #--- install git
 brew install git
+
+# --- this might duplicate what is below (not sure it's needed)
+brew install coreutils --default-names
+
 
 #--- install gnu utils
 brew install binutils
