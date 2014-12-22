@@ -29,3 +29,4 @@ brew install wget
 
 #--- install additional stuff I like
 brew install ack
+brew install bash-completion
