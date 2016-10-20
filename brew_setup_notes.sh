@@ -30,3 +30,13 @@ brew install wget
 #--- install additional stuff I like
 brew install ack
 brew install bash-completion
+
+#--- some fast ack/ag/sag tools I like
+#https://github.com/sampson-chen/sack
+#https://github.com/ggreer/the_silver_searcher
+
+# tool for fuzzy searching
+# https://github.com/junegunn/fzf
+
+# super fast grep tool similar to silversearcher
+# http://blog.burntsushi.net/ripgrep/
