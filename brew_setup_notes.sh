@@ -43,5 +43,5 @@ brew install bash-completion
 
 # AFTER ALL THIS IS DONE, YOU'LL PROBABLY STILL BE DEFAULTING TO THE WRONG BASH, SO THIS
 sudo vim /etc/shells  # add preferred bash as line to this file: /usr/local/bin/bash
-chsh   # specify the new preferred shell: /usr/local/bin/bashj
+chsh   # specify the new preferred shell: /usr/local/bin/bash
 
