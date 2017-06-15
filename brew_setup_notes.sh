@@ -40,3 +40,8 @@ brew install bash-completion
 
 # super fast grep tool similar to silversearcher
 # http://blog.burntsushi.net/ripgrep/
+
+# AFTER ALL THIS IS DONE, YOU'LL PROBABLY STILL BE DEFAULTING TO THE WRONG BASH, SO THIS
+sudo vim /etc/shells  # add preferred bash as line to this file: /usr/local/bin/bash
+chsh   # specify the new preferred shell: /usr/local/bin/bashj
+
