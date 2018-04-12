@@ -41,6 +41,7 @@ brew install the_silver_searcher
 
 # tool for fuzzy searching
 # https://github.com/junegunn/fzf
+brew install fzf
 
 # super fast grep tool similar to silversearcher
 # http://blog.burntsushi.net/ripgrep/
