@@ -31,6 +31,7 @@ brew install wget
 brew install pstree
 
 #--- install additional stuff I like
+brew install vim
 brew install ack
 brew install bash-completion
 
