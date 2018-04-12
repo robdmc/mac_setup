@@ -1,6 +1,6 @@
 brew install bash
 
-#--- Install the dups tap
+#--- Install the dups tap  THIS APPEARS TO BE DEPRECATED NOW
 brew tap homebrew/dupes
 
 
