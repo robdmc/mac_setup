@@ -1,3 +1,5 @@
+brew install bash
+
 #--- Install the dups tap
 brew tap homebrew/dupes
 
