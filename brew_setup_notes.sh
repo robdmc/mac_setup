@@ -5,6 +5,13 @@ brew install python
 sudo mkdir /env
 python3 -m venv /env/base  # /env/base/bin should be on PATH 
 
+#--- set up local python3 with useful packages
+pip install flake8
+pip install pandashells[full]
+pip install ipython
+pip install jupyter
+pip install easier
+
 #--- Install the dups tap  THIS APPEARS TO BE DEPRECATED NOW
 brew tap homebrew/dupes
 
