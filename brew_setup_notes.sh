@@ -1,5 +1,10 @@
 brew install bash
 
+#--- install modifiable local python3
+brew install python
+sudo mkdir /env
+python3 -m venv /env/base  # /env/base/bin should be on PATH 
+
 #--- Install the dups tap  THIS APPEARS TO BE DEPRECATED NOW
 brew tap homebrew/dupes
 
