@@ -5,6 +5,9 @@ brew install python
 sudo mkdir /env
 python3 -m venv /env/base  # /env/base/bin should be on PATH 
 
+# install pipenv into the homebrew python3 to make it available system-wide
+/usr/local/bin/pip3 install pipenv
+
 #--- set up local python3 with useful packages
 pip install flake8
 pip install pandashells[full]
