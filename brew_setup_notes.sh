@@ -40,7 +40,8 @@ brew install screen
 brew install watch
 brew install wdiff --with-gettext
 brew install wget
-brew install pstree
+brew install pstree # good process monitor
+brew install ncdu # good disk space info
 
 #--- install additional stuff I like
 brew install vim
