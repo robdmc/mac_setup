@@ -51,6 +51,9 @@ brew install vim
 brew install ack
 brew install bash-completion
 
+# --- A fast file finder https://github.com/sharkdp/fd
+brew install fd
+
 #--- some fast ack/ag/sag tools I like
 #https://github.com/sampson-chen/sack
 #https://github.com/ggreer/the_silver_searcher
