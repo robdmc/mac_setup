@@ -3,7 +3,6 @@ brew install bash
 #--- install modifiable local python3
 brew install python
 sudo mkdir /env
-python3 -m venv /env/base  # /env/base/bin should be on PATH 
 
 # install pipenv into the homebrew python3 to make it available system-wide
 /usr/local/bin/pip3 install pipenv
