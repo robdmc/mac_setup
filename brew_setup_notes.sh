@@ -2,41 +2,27 @@ brew install bash
 
 #--- install modifiable local python3
 brew install python
-sudo mkdir /env
-
-# install pipenv into the homebrew python3 to make it available system-wide
-/usr/local/bin/pip3 install pipenv
-
-#--- set up local python3 with useful packages
-pip install flake8
-pip install pandashells[full]
-pip install ipython
-pip install jupyter
-pip install easier
-
-#--- Install the dups tap  THIS APPEARS TO BE DEPRECATED NOW
-brew tap homebrew/dupes
 
 
 #--- install git
 brew install git
 
 # --- this might duplicate what is below (not sure it's needed)
-brew install coreutils --default-names
+brew install coreutils
 
 
 #--- install gnu utils
 brew install binutils
 brew install diffutils
-brew install ed --default-names
-brew install findutils --default-names
+brew install ed 
+brew install findutils 
 brew install gawk
-brew install gnu-indent --default-names
-brew install gnu-sed --default-names
-brew install gnu-tar --default-names
-brew install gnu-which --default-names
-brew install gnutls --default-names
-brew install grep --default-names
+brew install gnu-indent 
+brew install gnu-sed
+brew install gnu-tar
+brew install gnu-which 
+brew install gnutls 
+brew install grep
 brew install gzip
 brew install screen
 brew install watch
