@@ -30,6 +30,7 @@ brew install wdiff --with-gettext
 brew install wget
 brew install pstree # good process monitor
 brew install ncdu # good disk space info
+brew install tree
 
 #--- install additional stuff I like
 brew install vim
