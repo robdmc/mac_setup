@@ -56,3 +56,5 @@ brew install fzf
 sudo vim /etc/shells  # add preferred bash as line to this file: /usr/local/bin/bash
 chsh   # specify the new preferred shell: /usr/local/bin/bash
 
+# See this for certificate problems in python3
+# https://github.com/tensorflow/tensorflow/issues/10779
