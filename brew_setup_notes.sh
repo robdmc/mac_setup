@@ -58,3 +58,5 @@ chsh   # specify the new preferred shell: /usr/local/bin/bash
 
 # See this for certificate problems in python3
 # https://github.com/tensorflow/tensorflow/issues/10779
+
+# This is also a good tool if you have node/npm installed.  https://www.npmjs.com/package/taskbook
