@@ -7,6 +7,9 @@ brew install python
 #--- install git
 brew install git
 
+#--- a nice terminal gui for git
+brew install tig
+
 # --- this might duplicate what is below (not sure it's needed)
 brew install coreutils
 
