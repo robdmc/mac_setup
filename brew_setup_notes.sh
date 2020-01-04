@@ -63,3 +63,10 @@ chsh   # specify the new preferred shell: /usr/local/bin/bash
 # https://github.com/tensorflow/tensorflow/issues/10779
 
 # This is also a good tool if you have node/npm installed.  https://www.npmjs.com/package/taskbook
+
+
+
+# --- after setting up python, I like this package installed
+pip install magic-wormhole
+
+
