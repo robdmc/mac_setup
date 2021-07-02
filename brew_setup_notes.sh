@@ -43,6 +43,10 @@ brew install bash-completion
 # --- A fast file finder https://github.com/sharkdp/fd
 brew install fd
 
+# -- A data-transformation tool like awk grep sed
+#    https://miller.readthedocs.io/en/latest/
+brew install miller
+
 #--- some fast ack/ag/sag tools I like
 #https://github.com/sampson-chen/sack
 #https://github.com/ggreer/the_silver_searcher
