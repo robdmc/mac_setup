@@ -40,6 +40,13 @@ brew install vim
 brew install ack
 brew install bash-completion
 
+#--- similar sag-style searching, but using ripgrep
+#    Follow instructions here: https://github.com/aykamko/tag
+#    to set up for ripgrep
+brew install ripgrep
+brew tap aykamko/tag-ag
+brew install tag-ag
+
 # --- A fast file finder https://github.com/sharkdp/fd
 brew install fd
 
