@@ -67,6 +67,9 @@ brew install the_silver_searcher
 # https://github.com/junegunn/fzf
 brew install fzf
 
+# If you want postgres client stuff (psql and friends)
+brew install libpq
+
 # super fast grep tool similar to silversearcher
 # http://blog.burntsushi.net/ripgrep/
 
