@@ -67,6 +67,13 @@ brew install the_silver_searcher
 # https://github.com/junegunn/fzf
 brew install fzf
 
+# I really like this tool for fuzzy searching file contents.
+# I clone to the repo to repos directory and hard-link to ~/bin
+git clone https://github.com/Magnushhoie/fuz
+ln path/to/repo/fuz ~/bin
+ln path/to/repo/string2arg.sh ~/bin
+
+
 # If you want postgres client stuff (psql and friends)
 brew install libpq
 
