@@ -89,6 +89,8 @@ chsh   # specify the new preferred shell: /usr/local/bin/bash
 
 # This is also a good tool if you have node/npm installed.  https://www.npmjs.com/package/taskbook
 
+# I like the fuz tool from here: https://github.com/Magnushhoie/fuz
+
 
 
 # --- after setting up python, I like this package installed
