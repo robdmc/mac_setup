@@ -77,6 +77,9 @@ ln path/to/repo/string2arg.sh ~/bin
 # If you want postgres client stuff (psql and friends)
 brew install libpq
 
+# I like this search tool
+brew install ugrep
+
 # super fast grep tool similar to silversearcher
 # http://blog.burntsushi.net/ripgrep/
 
