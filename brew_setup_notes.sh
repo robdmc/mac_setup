@@ -44,6 +44,7 @@ brew install vim
 brew install ack
 brew install bash-completion
 brew install zoxide
+brew install uv
 
 #--- similar sag-style searching, but using ripgrep
 #    Follow instructions here: https://github.com/aykamko/tag
